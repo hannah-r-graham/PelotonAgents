@@ -1,0 +1,4 @@
+order_number,status,fraudulent
+12345,Shipped,False
+67890,Processing,true
+ABCDE,Delivered,False
